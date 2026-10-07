@@ -1,0 +1,2 @@
+model,classification,feature_count,train_samples,test_samples,accuracy,precision,recall,f1_score,roc_auc,pr_auc,mcc,specificity,false_positive_rate,true_negative,false_positive,false_negative,true_positive,training_time_seconds,prediction_time_seconds
+Random Forest,Binary,47,1956995,489249,0.9992887057510593,0.9969877277798438,0.9986961704663985,0.9978412178508952,0.9998712568258331,0.9988134159413069,0.9974159477693146,0.9994054565873208,0.0005945434126791888,408474,243,105,80427,143.35247588157654,1.956517219543457

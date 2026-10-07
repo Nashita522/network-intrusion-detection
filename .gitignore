@@ -1,0 +1,46 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# CIC-IDS2017 dataset
+data/raw/
+data/processed/
+
+# Large trained models
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+# CIC-IDS2017 dataset
+data/raw/
+data/processed/
+
+# Trained models
+models/
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
